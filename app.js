@@ -29,4 +29,33 @@ const makePost = async () => {
   console.log(status);
 }
 
-cron.schedule("0 * * * *", makePost);
+const refreshFields = async () => {
+  const fields = await client.v1.accounts.updateCredentials({
+    fieldsAttributes: [
+      {
+        name: 'Anzahl an Fragmenten',
+        value: (fragments.first.length + fragments.second.length + fragments.third.length).toString(),
+      },
+      {
+        name: 'Anzahl an Möglichkeiten',
+        value: (fragments.first.length * fragments.second.length * fragments.third.length).toString(),
+      },
+      {
+        name: 'Programmiert von',
+        value: '@finn@furry.energy',
+      },
+      {
+        name: 'GitHub',
+        value: 'https://github.com/ryzetech/desinformator',
+      },
+      {
+        name: 'Letzter Neustart',
+        value: new Date().toLocaleDateString("de-DE") + " " + new Date().toLocaleTimeString("de-DE"),
+      },
+    ]
+  });
+}
+
+refreshFields();
+
+cron.schedule("0 */2 * * *", makePost);
