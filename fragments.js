@@ -1,3 +1,10 @@
+/**
+ * Fragmente importiert von https://desinformator.de
+ * Ab der Markierung "Beginn eigene Fragmente" eigene Ergänzungen oder Funde aus dem Netz
+ * Texte: Pia Frey, Peter Wittkamp
+ * 
+ */
+
 export const fragments = {
   "first": [
     "Elon Musk",
@@ -6,7 +13,6 @@ export const fragments = {
     "Der alte weiße Mann",
     "Der Tyrannosaurus-Rex",
     "Jan Böhmermann",
-    "Ein sehr bekannter Impfstoffhersteller",
     "Billie Eilish",
     "Xavier Naidoo",
     "Der Erfinder des Dyson-Staubsaugers",
@@ -17,7 +23,6 @@ export const fragments = {
     "Eine Influencerin aus Dubai",
     "Die Mafia",
     "Der geheime Sohn von Angela Merkel",
-    "Ein Fledermausverkäufer aus Wuhan",
     "Beatrix von Storch",
     "Der Trump-Clan",
     "Peter Wittkamps Gagschreiber",
@@ -41,7 +46,6 @@ export const fragments = {
     "Der Therapeut von Wolfgang Kubicki",
     "Ein Gecko von Thomas Schmitt",
     "Ein Fan von Gemischtes Hack",
-    "Mit Vergnügen",
     "Andreas Scheuer",
     "Die Sparkasse",
     "Ein Zucht-Pferd von Aurel Mertz",
@@ -58,14 +62,19 @@ export const fragments = {
     "Hubert Aiwanger",
     "Das \"Autoren\"-Duo Welzer und Precht",
     "Die Wagenknecht-Schwarzer-Allianz",
-    "Mathias Döpfner"
+    "Mathias Döpfner",
+    /* Beginn eigene Fragmente */
+    "Die französische Mafia",
+    "Die Zahnfee",
+    "Das Sandmännchen",
+    "Die angeblich unabhängige WHO",
+    "Ein linksradikaler Außerirdischer",
+    "Finnley",
   ],
   "second": [
-    "fälscht seit Jahren Corona-Statistiken,",
     "will den Eiffelturm einschmelzen lassen,",
     "ist der geheime Kopf hinter QAnon,",
     "lebt jeden Tag, als könnte es der Letzte sein,",
-    "hat das Corona-Virus in die Welt gesetzt,",
     "hat den Mauerfall befohlen,",
     "möchte Gender-Sternchen ins deutsche Grundgesetz bringen,",
     "soll angeblich den Brexit finanziert haben,",
@@ -99,7 +108,6 @@ export const fragments = {
     "möchte mit Putin verhandeln",
     "ernährt sich nur von Lebensmitteln mit Nutriscore E",
     "will eine Kopfhörer-Plicht",
-    "hat in der gesamten Pandemie niemals eine Maske getragen",
     "will ein Insta \"wie früher\"",
     "tritt neuerdings als \"Charles der Dritte\" auf",
     "steckt hinter allen Vorschlägen von Friedrich Merz",
@@ -112,7 +120,16 @@ export const fragments = {
     "fordert das Generische Femininum",
     "hat die Nordstream-Pipeline gesprengt",
     "hat Twitter gekauft",
-    "schmiert die komplette Fifa"
+    "schmiert die komplette Fifa",
+    /* Beginn eigene Fragmente */
+    "ist mit einem Fake-Profil auf Tinder",
+    "kontrolliert die Grünen",
+    "will Nutella mit Butter verbieten",
+    "hat die letzte Staffel von Game of Thrones geschrieben",
+    "hat die Seitenbacher-Werbung erfunden",
+    "ist mit den Geissens befreundet",
+    "instrumentalisiert das Bündnis Sahra Wagenknecht",
+    "macht regelmäßig die Eismaschine bei McDonalds kaputt",
   ],
   "third": [
     "damit der Goldkurs endgültig durch die Decke geht.",
@@ -133,7 +150,6 @@ export const fragments = {
     "und Ken Jebsen hat es die ganze Zeit gewusst.",
     "wodurch die Sprachpolizei weiterhin leichtes Spiel hat.",
     "quod erat demonstrandum.",
-    "schön getarnt als Corona \"Schutz\"Maßnahmen.",
     "das stand ja sogar in der Bild-Zeitung.",
     "alles nur, damit die Fischstäbchen-Pizza bleibt!",
     "und das alles nur, um endlich einen blauen Haken zu bekommen.",
@@ -153,6 +169,16 @@ export const fragments = {
     "damit Deutschland endlich mit Putin verhandelt!",
     "damit Donald Trump zum zweiten mal Präsident werden kann!!!",
     "\" und das war natürlich der Anfang vom Ende!",
-    "damit die Deutschland GmbH endlich abdankt!"
+    "damit die Deutschland GmbH endlich abdankt!",
+    /* Beginn eigene Fragmente */
+    "wenn das der Führer mitbekommen hätte",
+    "da muss man sich nur mal reinlesen und irgendwann macht's Klick!",
+    "was saublöd ist, aber machste nix.",
+    "und Günther Jauch steckt da auch noch irgendwie mit drin.",
+    "aber Günter Wallraff dreht schon die neue Reportage.",
+    "aber die große Frage ist: Was hat Bibi Blocksberg damit zu tun?",
+    "und darum klebt jetzt auch überall Tesafilm.",
+    "was das Gaffa-Verbot im CCH erklärt.",
+    "und das hat die LIDL-Plus-App ganz weit nach oben gebracht!",
   ]
 }
