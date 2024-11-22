@@ -1,6 +1,7 @@
-import { createOAuthAPIClient, createRestAPIClient } from "masto";
-import { fragments } from "./fragments.js";
+import { createRestAPIClient } from "masto";
 import dotenv from "dotenv";
+import cron from "node-cron";
+import { fragments } from "./fragments.js";
 
 dotenv.config();
 
@@ -21,11 +22,11 @@ const client = createRestAPIClient({
   accessToken: process.env.TOKEN,
 });
 
-const postNow = async () => {
+const makePost = async () => {
   const status = await client.v1.statuses.create({
     status: generateStatus(),
   });
   console.log(status);
 }
 
-postNow();
+cron.schedule("0 * * * *", makePost);
