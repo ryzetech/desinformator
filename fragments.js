@@ -64,6 +64,8 @@ export const fragments = {
     "Die Eurofurence Orga",
     "Die Schufa",
     "Der Chaos Computer Club",
+    "Das Furry Fandom",
+    "Jeffrey Epstein",
   ],
   "second": [
     "will den Eiffelturm einschmelzen lassen,",
@@ -88,7 +90,6 @@ export const fragments = {
     "schreibt unter Pseudonym eine Kolumne in der Welt",
     "will ARD und ZDF das Geld streichen",
     "hat noch nie eine Folge des Fernsehgarten verpasst",
-    "hat bei Julian Reichelts YouTube-Kanal angeheuert",
     "lügt ohne rot zu werden",
     "verbraucht jeden Tag drei Kilo Hackfleisch",
     "will auf OnlyFans noch mal richtig durchstarten",
@@ -99,7 +100,6 @@ export const fragments = {
     "ernährt sich nur von Lebensmitteln mit Nutriscore E",
     "will eine Kopfhörer-Plicht",
     "will ein Insta \"wie früher\"",
-    "tritt neuerdings als \"Charles der Dritte\" auf",
     "steckt hinter allen Vorschlägen von Friedrich Merz",
     "will diesen Winter besonders viel Energie verbrauchen",
     "fordert ein ganzjähriges Oktoberfest",
@@ -130,6 +130,10 @@ export const fragments = {
     "hat die Mondlandung inszeniert",
     "behauptet, dass Vögel nicht echt sind",
     "hat das OVH Rechenzentrum in Brand gesteckt",
+    "zündet auch privat regelmäßig was an",
+    "schaut heimlich RTL2",
+    "hat die BILD-Redaktion infiltriert",
+    "hat die Telekom-Hotline angerufen",
   ],
   "third": [
     "damit der Goldkurs endgültig durch die Decke geht.",
@@ -147,7 +151,6 @@ export const fragments = {
     "ok. Wow.",
     "womit sich natürlich auch erklärt, warum der Euro eingeführt wurde.",
     "wodurch die Sprachpolizei weiterhin leichtes Spiel hat.",
-    "quod erat demonstrandum.",
     "das stand ja sogar in der Bild-Zeitung.",
     "alles nur, damit die Fischstäbchen-Pizza bleibt!",
     "und das alles nur, um endlich einen blauen Haken zu bekommen.",
@@ -184,5 +187,9 @@ export const fragments = {
     "und das katapultiert Bitcoin schon wieder zum Mond.",
     "was das Finanzamt natürlich nicht gerne hört.",
     "aber was sagt der Verifox dazu?",
+    "und das ist auch der Grund, warum die Telekom-Hotline nicht erreichbar ist.",
+    "das reicht! Ich ruf die Internetpolizei!",
+    "wodurch der Aluhut jetzt anfängt zu sublimieren.",
+    "und das erklärt, warum die Post immer mehr Porto verlangt.",
   ]
 }
