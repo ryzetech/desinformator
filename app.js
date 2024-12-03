@@ -1,13 +1,14 @@
 import { createRestAPIClient } from "masto";
 import dotenv from "dotenv";
 import cron from "node-cron";
+import crypto from "crypto";
 import { fragments } from "./fragments.js";
 
 dotenv.config();
 
 const getRandomFragment = (key) => {
-  const fragment = fragments[key];
-  return fragment[Math.floor(Math.random() * fragment.length)];
+  const fragmentList = fragments[key];
+  return fragmentList[crypto.randomInt(0, fragmentList.length)];
 }
 
 const generateStatus = () => {
