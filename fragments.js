@@ -63,6 +63,7 @@ export const fragments = {
     "Ein Kleinkünstler",
     "Der Bürgermeister von Bielefeld",
     "Ein indisches Callcenter",
+    "Ein nerviger Junge namens Paul",
   ],
   "second": [
     "will den Eiffelturm einschmelzen lassen,",
@@ -134,6 +135,7 @@ export const fragments = {
     "setzt sich für ein Döner-Verbot ein",
     "will die Dönerpreisbremse",
     "hat die Dönerpreisbremse verhindert",
+    "will Finnley umbringen",
   ],
   "third": [
     "damit der Goldkurs endgültig durch die Decke geht.",
@@ -192,5 +194,6 @@ export const fragments = {
     "und das ist auch der Grund, warum die Milchschnitte immer kleiner wird.",
     "weswegen ein Döner jetzt 10 Euro kostet.",
     "und damit ist die Dönerpreisbremse endgültig vom Tisch.",
+    "damit Finnley einen Hackerspace bombt",
   ]
 }
