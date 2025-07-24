@@ -63,6 +63,8 @@ export const fragments = {
     "Ein Kleinkünstler",
     "Der Bürgermeister von Bielefeld",
     "Ein indisches Callcenter",
+    "Der Bund der Fliesentischbesitzer",
+    "Die Bärchengruppe aus dem Kindergarten \"Pusteblume\"",
   ],
   "second": [
     "will den Eiffelturm einschmelzen lassen,",
@@ -134,6 +136,9 @@ export const fragments = {
     "setzt sich für ein Döner-Verbot ein",
     "will die Dönerpreisbremse",
     "hat die Dönerpreisbremse verhindert",
+    "kontrolliert Microsoft",
+    "hat Windows 8 veröffentlicht",
+    "will dir einen Karton Fladenbrot schenken",
   ],
   "third": [
     "damit der Goldkurs endgültig durch die Decke geht.",
@@ -192,5 +197,9 @@ export const fragments = {
     "und das ist auch der Grund, warum die Milchschnitte immer kleiner wird.",
     "weswegen ein Döner jetzt 10 Euro kostet.",
     "und damit ist die Dönerpreisbremse endgültig vom Tisch.",
+    "was die Welt auch nicht heilt.",
+    "weswegen wir jetzt einen LKW voll Fladenbrot vor der Tür haben.",
+    "und weil das so interessant ist, pingen wir jetzt einfach mal @finn@ice.finnley.dev",
+    "und diese Neuigkeit ist so bahnbrechend, dass wir @Mr_Hat_2010@chaos.social zu Rate ziehen müssen!",
   ]
 }
