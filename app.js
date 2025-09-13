@@ -43,7 +43,7 @@ const refreshFields = async () => {
       },
       {
         name: 'Programmiert von',
-        value: '@finn@furry.energy',
+        value: '@finn@ice.finnley.dev',
       },
       {
         name: 'GitHub',
