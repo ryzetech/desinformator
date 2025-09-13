@@ -199,7 +199,5 @@ export const fragments = {
     "und damit ist die Dönerpreisbremse endgültig vom Tisch.",
     "was die Welt auch nicht heilt.",
     "weswegen wir jetzt einen LKW voll Fladenbrot vor der Tür haben.",
-    "und weil das so interessant ist, pingen wir jetzt einfach mal @finn@ice.finnley.dev",
-    "und diese Neuigkeit ist so bahnbrechend, dass wir @Mr_Hat_2010@chaos.social zu Rate ziehen müssen!",
   ]
 }
